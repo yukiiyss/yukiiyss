@@ -1,0 +1,240 @@
+html{
+    background-color:#edf2c5;
+}
+body{
+    margin: 0;
+    padding: 0;
+    max-height: 940px;
+    max-width: 1260px;
+    display: flex;
+    flex-direction: column;
+}
+.content
+{
+    margin: 0;
+    padding: 0;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.beijing
+{
+    margin: 0;
+    padding: 0;
+}
+
+.header
+{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    margin: 0;
+    padding: 0;
+    height: 100px; 
+    display: flex;
+}
+.dabiaoti{
+    margin: 0;
+    padding: 0;
+    height: 100px; 
+    margin-right: 435px;
+    font-weight: 900;
+}
+
+.dabiaoti > p
+{
+    margin: 0;
+    padding: 0;
+    margin-top: 36px;
+    font-family: Arial;
+    font-size: 44px;
+    color: #778a50;
+}
+
+.tubiao{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #778a50;
+    display: flex;
+    flex-direction: row;
+    margin-top: 45px;
+}
+.icon{
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #778a50;
+}
+.btn_facebook{
+    margin-right: 5px;
+}
+.dengruqu{
+    margin: 0;
+    padding: 0;
+    margin-top: 4px;
+}
+.login{
+    border: 1px solid #778a50;
+    padding: 5px 7px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #778a50
+}
+.join{
+    border: 1px solid #778a50;
+    padding: 5px 7px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #778a50
+}
+.biaokuang{
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;    
+}
+.list{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: #778a50;
+    border-radius: 3px;
+   
+}
+.head-list{
+    margin: 0;
+    padding: 0;
+    padding: 16px 30px;
+    font-style: none;
+    color:#edf2c5;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: 900;
+    padding-top: 10px;
+    padding-bottom: 11px;
+}
+.pumpkin-photo{
+    margin-top: 20px;
+}
+.xiaozhaopian{
+    display: flex;
+    padding-top: 15px;
+    width: 444px;
+    height: 140px;
+    border-radius: 3px;
+}
+
+.xiaozhaopian > img
+{
+    margin-right: 12px;
+}
+.wanxin{
+    display: flex;
+}
+
+.greenbox{
+    display: flex;
+}
+.vkuang{
+    padding: 0;
+    margin: 0;
+    width: 444px;
+    height: 45px;
+    margin-right: 50px;
+    background-color: #778a50;
+    border-radius: 3px;
+}
+.ckuang{
+    width: 444px;
+    height: 45px;
+    background-color: #778a50;
+    border-radius: 3px;
+
+}
+.kuangcai{
+    color:#edf2c5;
+    font-family: Arial;
+    width: 98px;
+    height: 23px;
+    font-weight: 900;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    font-size: 16px;
+}
+.kuanglianluo{
+    color:#edf2c5;
+    font-family: Arial;
+    font-weight: 900;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    font-size: 16px;
+}
+.ques-email{
+    padding: 0;
+    margin: 0;
+    width: 445px;
+    height: 140px;
+    background-color: #F7FBDA;
+    margin-top: 15px;
+    margin-left: 52px;
+}
+.question{
+    width: 414px;
+    height: 44px;
+    color: #7d7d7d;
+    font-family: Arial;
+    font-size: 12px;
+    padding-left: 15px;
+}
+
+.email > p{
+    margin: 0;
+    padding: 0;
+    line-height: 1.73;
+}
+.email{
+    width: 414px;
+    height: 44px;
+    color: #7d7d7d;
+    font-family: Arial;
+    font-size: 12px;
+    padding: 15px;
+}
+.footer{
+    margin: 0;
+    padding: 0;
+    margin-top: 35px;
+    width: 1260px;
+    height: 60px;
+    background-color: #778A50;
+}
+.text-footer{
+    font-family: Arial;
+    font-size: 12px;
+    color: #EDF2C5;
+    text-align: center;
+    margin-bottom: 23px;
+    margin-top: 23px;
+}
+
+.line
+{
+    padding: 0;
+    margin: 0;
+    width: 414px;
+    height: 1px;
+    background-color: #7d7d7d;
+    margin-left: 15px;
+}
